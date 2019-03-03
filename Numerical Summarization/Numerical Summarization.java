@@ -1,4 +1,3 @@
-package com.jigsaw;
 
 import java.io.DataInput;
 import java.io.DataOutput;
@@ -41,7 +40,7 @@ public class NumericalSummarization extends Configured implements Tool{
 	// the min and max value of
 			String strDate = parsed.get("CreationDate");
 
-	// Grab the “UserID” since it is what we are grouping by
+	// Grab the â€œUserIDâ€ since it is what we are grouping by
 			String userId = parsed.get("UserId");
 
 	// .get will return null if the key is not there
