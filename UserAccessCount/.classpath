@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Jigsaw Big Data/Hadoop/hadoop-1.2.1/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
